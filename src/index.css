@@ -1,0 +1,25 @@
+:root {
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #f9fafb;
+  background-color: #030712;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+code {
+  background: #111827;
+  border-radius: 0.25rem;
+  padding: 0.15rem 0.35rem;
+}
